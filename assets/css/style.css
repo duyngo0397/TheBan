@@ -142,7 +142,7 @@ html{
     position: relative;
     margin-top:46px ;
     padding-top:50%;
-    background-image: url('/assets/img/slider/slider1.jpg');
+    background-image: url('../img/slider/slider1.jpg');
     background-position: center top;
     background-size: cover;
     background-repeat: no-repeat;
